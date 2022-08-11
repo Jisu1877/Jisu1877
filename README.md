@@ -72,4 +72,15 @@ Here are some ideas to get you started:
  <img src="http://49.142.157.251:9090/javagreenS_ljs/data/item/220708205132_1.jpg"/>
 </p>
 
-<img src="img.shields.io/badge/이지수-000000?style=JavaScript&logo=JavaScript&logoColor=F7DF1E"/>
+<!-- 뱃지 등록하기 -->
+<img src="https://img.shields.io/badge/이지수-000000?style=badge&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/이지수-000000?style=for-thebadge&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/이지수-000000?style=plastic&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/이지수-000000?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/이지수-000000?style=flat-square&logo=Burton&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/이지수-000000?style=social&logo=Burton&logoColor=F7DF1E"/>
+
+<!-- 깃허브 상태(스탭-step) 등록하기  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+-->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisu1877&show_icons=true&theme=highcontrast)
