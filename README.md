@@ -68,4 +68,6 @@ Here are some ideas to get you started:
 <p>
  <a href="http://www.naver.com">네이버</a>
  <a href="https://turn-butterfly.tistory.com">블로그</a>
+ 
+ <img src="http://localhost:9090/javagreenS_ljs/images/main2.jpg"/>
 </p>
