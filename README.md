@@ -67,7 +67,9 @@ Here are some ideas to get you started:
 <h2>어디로 갈까요?</h2>
 <p>
  <a href="http://www.naver.com">네이버</a>
- <a href="https://turn-butterfly.tistory.com">블로그</a>
+ <a href="https://turn-butterfly.tistory.com">블로그</a><br>
  
  <img src="http://49.142.157.251:9090/javagreenS_ljs/data/item/220708205132_1.jpg"/>
 </p>
+
+<img src="img.shields.io/badge/이지수-000000?style=JavaScript&logo=JavaScript&logoColor=F7DF1E"/>
