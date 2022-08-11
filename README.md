@@ -64,4 +64,8 @@ Here are some ideas to get you started:
 </ul>
 <hr>
 
-
+<h2>어디로 갈까요?</h2>
+<p>
+ <a href="http://www.naver.com">네이버</a>
+ <a href="https://turn-butterfly.tistory.com">블로그</a>
+</p>
