@@ -1,4 +1,4 @@
-<!-- 마크다운 태그 -->
+<!-- 마크다운 태그
 # Hi there 👋
 ## Hi there 👋
 ### Hi there 👋
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/이지수-000000?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/이지수-000000?style=flat-square&logo=Burton&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/이지수-000000?style=social&logo=Burton&logoColor=F7DF1E"/>
-
+ -->
 <!-- 깃허브 상태(스탭-step) 등록하기  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
