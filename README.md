@@ -23,10 +23,8 @@
 * 들여쓰기1
   + 들여쓰기2
     - 들여쓰기3 
-<!--
 <pre>
 <code>
--->
 ```java
 public class Test1 {
   public static void main(String[] args) {
@@ -34,12 +32,9 @@ public class Test1 {
   }
 }
 ```
-<!--
 </code>
 </pre>
--->
 
-<!--
 **Jisu1877/Jisu1877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -52,7 +47,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 <hr>
@@ -72,7 +66,6 @@ Here are some ideas to get you started:
  <img src="http://49.142.157.251:9090/javagreenS_ljs/data/item/220708205132_1.jpg"/>
 </p>
 
-<!-- 뱃지 등록하기 -->
 <img src="https://img.shields.io/badge/이지수-000000?style=badge&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/이지수-000000?style=for-thebadge&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/이지수-000000?style=plastic&logo=JavaScript&logoColor=F7DF1E"/>
