@@ -93,6 +93,7 @@ Here are some ideas to get you started:
 <h4>- PPT 자료</h4>
 <a href="https://turn-butterfly.tistory.com/33">https://turn-butterfly.tistory.com/33</a>
 <h4>- 구현 영상</h4>
+<a href="https://youtu.be/uEzOaJawyHY">https://youtu.be/uEzOaJawyHY</a>
 <h4>- 구동 사이트 주소</h4>
 <a href="http://49.142.157.251:9090/javagreenS_ljs/main/mainHome">http://49.142.157.251:9090/javagreenS_ljs/main/mainHome</a>
 <h4>- git repository</h4>
