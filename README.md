@@ -80,10 +80,11 @@ Here are some ideas to get you started:
 
 <h3>Portfolio</h3>
 <a href="https://turn-butterfly.tistory.com/34"><h4>JSP 프로젝트 PPT 자료</h4></a>
-<a href="https://youtu.be/3vzWuL1rE1w">JSP 프로젝트 구현 영상</a>
+<h4>JSP 프로젝트 구현 영상</h4>
+<a href="https://youtu.be/3vzWuL1rE1w">https://youtu.be/3vzWuL1rE1w</a>
 <hr>
 <a href="https://turn-butterfly.tistory.com/33"><h4>Spring Framwork 프로젝트 PPT 자료</h4></a>
-<a>Spring Framwork 프로젝트 구현 영상</a>
+<h4>Spring Framwork 프로젝트 구현 영상</h4>
 <hr>
 <h4>개인 블로그</h4>
 <a href="https://turn-butterfly.tistory.com/">https://turn-butterfly.tistory.com/</a>
