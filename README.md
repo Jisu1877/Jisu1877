@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <h4>- 구동 사이트 주소</h4>
 <a href="http://49.142.157.251:9090/javagreenS_ljs/main/mainHome">http://49.142.157.251:9090/javagreenS_ljs/main/mainHome</a>
 <h4>- git repository</h4>
-<a href="https://github.com/Jisu1877/JSPproject">https://github.com/Jisu1877/JSPproject</a>
+<a href="https://github.com/Jisu1877/TheGarden">https://github.com/Jisu1877/TheGarden</a>
 <hr>
 <h4>개인 블로그</h4>
 <a href="https://turn-butterfly.tistory.com/">https://turn-butterfly.tistory.com/</a>
