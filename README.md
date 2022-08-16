@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <a href="https://youtu.be/3vzWuL1rE1w">https://youtu.be/3vzWuL1rE1w</a>
 <h4>- 구동 사이트 주소</h4>
 <a href="http://49.142.157.251:9090/javagreenJ_ljs/">http://49.142.157.251:9090/javagreenJ_ljs/</a>
-<h4>- git</h4>
+<h4>- git repository</h4>
 <a href="https://github.com/Jisu1877/JSPproject">https://github.com/Jisu1877/JSPproject</a>
 <hr>
 <h4>Spring Framwork  프로젝트 제작 기간 : 2022.06.27 - 2022.08.04(약 5주)</h4>
@@ -95,6 +95,8 @@ Here are some ideas to get you started:
 <h4>- 구현 영상</h4>
 <h4>- 구동 사이트 주소</h4>
 <a href="http://49.142.157.251:9090/javagreenS_ljs/main/mainHome">http://49.142.157.251:9090/javagreenS_ljs/main/mainHome</a>
+<h4>- git repository</h4>
+<a href="https://github.com/Jisu1877/JSPproject">https://github.com/Jisu1877/JSPproject</a>
 <hr>
 <h4>개인 블로그</h4>
 <a href="https://turn-butterfly.tistory.com/">https://turn-butterfly.tistory.com/</a>
