@@ -77,9 +77,12 @@ Here are some ideas to get you started:
 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisu1877&show_icons=true&theme=highcontrast)
+
 <h3>Portfolio</h3>
 <a href="https://turn-butterfly.tistory.com/34"><h4>JSP 프로젝트 PPT 자료</h4></a>
 <a href="https://youtu.be/3vzWuL1rE1w">JSP 프로젝트 구현 영상</a>
 <hr>
-<a href="https://turn-butterfly.tistory.com/33"><h4>Spring 프로젝트 PPT 자료</h4></a>
-<a>Spring 프로젝트 구현 영상</a>
+<a href="https://turn-butterfly.tistory.com/33"><h4>Spring Framwork 프로젝트 PPT 자료</h4></a>
+<a>Spring Framwork 프로젝트 구현 영상</a>
+<hr>
+<h3>개인 블로그</h3>
