@@ -80,18 +80,18 @@ Here are some ideas to get you started:
 
 <h3>Portfolio</h3>
 <h4>JSP 프로젝트 제작 기간 : 2022.05.18 - 2022.06.02(약 2주)</h4>
-<h4>JSP 프로젝트 PPT 자료</h4>
+<h4>- PPT 자료</h4>
 <a href="https://turn-butterfly.tistory.com/34">https://turn-butterfly.tistory.com/34</a>
-<h4>JSP 프로젝트 구현 영상</h4>
+<h4>- 구현 영상</h4>
 <a href="https://youtu.be/3vzWuL1rE1w">https://youtu.be/3vzWuL1rE1w</a>
-<h4>JSP 프로젝트 구동 사이트 주소</h4>
+<h4>- 구동 사이트 주소</h4>
 <a href="http://49.142.157.251:9090/javagreenJ_ljs/">http://49.142.157.251:9090/javagreenJ_ljs/</a>
 <hr>
 <h4>Spring Framwork  프로젝트 제작 기간 : 2022.06.27 - 2022.08.04(약 5주)</h4>
-<h4>Spring Framwork 프로젝트 PPT 자료</h4>
+<h4>- PPT 자료</h4>
 <a href="https://turn-butterfly.tistory.com/33">https://turn-butterfly.tistory.com/33</a>
-<h4>Spring Framwork 프로젝트 구현 영상</h4>
-<h4>Spring Framwork 구동 사이트 주소</h4>
+<h4>- 구현 영상</h4>
+<h4>- 구동 사이트 주소</h4>
 <a href="http://49.142.157.251:9090/javagreenS_ljs/main/mainHome">http://49.142.157.251:9090/javagreenS_ljs/main/mainHome</a>
 <hr>
 <h4>개인 블로그</h4>
