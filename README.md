@@ -78,4 +78,4 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisu1877&show_icons=true&theme=highcontrast)
 
-<h3>안녕하세요:) 이지수입니다.</h3>
+<h3>안녕하세요☺️</h3>
